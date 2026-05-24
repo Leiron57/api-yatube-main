@@ -31,4 +31,3 @@ urlpatterns = [
         name='comment-detail'
     ),
 ]
-    
